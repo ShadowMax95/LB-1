@@ -1,6 +1,6 @@
 import requests
 
-bot_token = '7772383941:AAGij30ENw9t8d81KJKBwzzNTRz_GU3aseY'
+bot_token = ''# Токен бота
 chat_id = ''# ID чату або користувача
 
 message = 'Привіт! Це повідомлення через Telegram Bot API.'
